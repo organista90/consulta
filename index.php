@@ -10,7 +10,7 @@ require_once './db/conexion.php';
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title></title>
+        <title>Bienvenidos...</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -28,7 +28,7 @@ require_once './db/conexion.php';
 <script type="text/javascript" src="//cdn.datatables.net/buttons/1.2.2/js/buttons.html5.min.js"</script>
 
 
-      //ESTA ES UNA EDICION
+      
     </head>
     <body>
         <div class="container">
