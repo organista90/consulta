@@ -28,7 +28,7 @@ require_once './db/conexion.php';
 <script type="text/javascript" src="//cdn.datatables.net/buttons/1.2.2/js/buttons.html5.min.js"</script>
 
 
-      
+      //ESTA ES UNA EDICION
     </head>
     <body>
         <div class="container">
