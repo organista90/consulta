@@ -56,7 +56,7 @@ require_once './db/conexion.php';
                                                 <div class="col-lg-9">
                                                     <select class="form-control" id="idregion" onchange="datos_audiencia()">
                                                         <option value="0" selected="">Todos</option>
-                                                        <option value="1">Acapulco</option>
+                                                        <option value="1">Acapulco</option> Guerrero
                                                         <option value="2">Centro</option>
                                                         <option value="3">Costa Chica</option>
                                                         <option value="4">Costa Grande</option>
